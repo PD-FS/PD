@@ -19,4 +19,4 @@ Actores
 
 9. Cuadrante: división de la localidad definida por la policia de bogotá
 
-10. Zona:
+10. Zona:Conjuntos de cuadrantes

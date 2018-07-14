@@ -11,13 +11,6 @@
 
 
 
-
-
-# Información para recicladores
-* Puntos de acopio
-
-
-
 # Actores:
 
 1. Usuarios
@@ -27,8 +20,42 @@
 
 # Entidades:
 
-1. Servicio
-2. Usuario
-3. Reciclador
-4. Tipos de material
+1. Servicio:
+	* id (char)
+	* usuarioId (char)
+	* ubicacionMaterialDireccion (char)
+	* ubicacionMaterialGpsX (double)
+	* ubicacionMaterialGpsY (double)
+	* tipoMaterialId (char)
+	* ubicacionRecicladorGpsX (double)
+	* ubicacionRecicladorGpsY (double)
+	* tiempoAtencion (char)
+	* recicladorId
+	* estadoServicio (char)
+
+2. Usuario:
+	* id (char)
+	* nombres (char)
+	* apellidos (char)
+	* alias
+	* tipoIdentificacion (char)
+	* numeroIdentificacion (char)
+	* email (char)
+	* numeroTelefonico (char)
+	* calificacion (int)
+
+3. Reciclador:
+	* id (char)
+	* nombres (char)
+	* apellidos (char)
+	* tipoIdentificacion (char)
+	* numeroIdentificacion (char)
+	* email (char)
+	* numeroTelefonico (char)
+	* foto (char)
+	* calificacion (int)
+
+4. Tipos de material:
+	* id (char)
+	* nombreTipoMaterial (char)
  

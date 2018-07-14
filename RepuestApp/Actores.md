@@ -6,5 +6,6 @@ Apellido  varchar (30),
 TipoIdentifcacion varchar (30),
 NroIdentificacio varchar(30),
 DireccionResidencia varchar(50)
+NúmeroDeContacto int 
 
 )

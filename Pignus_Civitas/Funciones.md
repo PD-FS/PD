@@ -1,5 +1,6 @@
 # Funciones
 
+<<<<<<< HEAD
 ## Agregar publicación
 Agregar información sobre un escenario o una situación que se desea poner en conocimiento de las personas encargadas de la seguridad del cuadrante, ciudad, localidad o región.
 
@@ -15,3 +16,36 @@ Administrar los agentes encargados de la seguridad ciudadana, como por ejemplo e
 ## Consultar información personal
 Acceder a la información pública sobre una persona específica de manera que se pueda determinar si una persona tiene antecedentes, está registrada en alguna lista negra, etc.
 
+=======
+## Consultar ciudadano
+
+## Consultar publicaciones de un ciudadano/grupo
+
+## Consultar establecimiento
+
+## Consultar reportes por establecimiento
+
+## Administrar zonas/localidades/cuadrantes
+
+## Administrar ciudadanos
+
+## Administrar establecimientos
+
+## Administrar líderes
+
+## Consultar información personal
+
+## Administrar dueños de negocios
+
+## Administrar agentes de seguridad
+
+## Realizar gestión y seguimiento
+
+## Administrar publicaciones
+
+## Agregar publicación
+
+## Administrar grupos
+
+## Administrar agentes privados
+>>>>>>> master

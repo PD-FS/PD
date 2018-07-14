@@ -1,12 +1,14 @@
-#player: id_player
-		nick_name
-		name
-		last_name
+# player: 
+		* id_player
+		* nick_name
+		* name
+		* last_name
 
-#card: 	id_card
-		type_card
-		text
-		answer
+# card: 
+		1. id_card
+		2. type_card
+		3. text
+		4. answer
 		
 	
 			

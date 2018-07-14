@@ -1,6 +1,8 @@
 # Funciones
 
-<<<<<<< HEAD
+## Consultar ciudadano (actor civil)
+Consultar la información básica de un ciudadano
+
 ## Agregar publicación
 Agregar información sobre un escenario o una situación que se desea poner en conocimiento de las personas encargadas de la seguridad del cuadrante, ciudad, localidad o región.
 
@@ -16,18 +18,21 @@ Administrar los agentes encargados de la seguridad ciudadana, como por ejemplo e
 ## Consultar información personal
 Acceder a la información pública sobre una persona específica de manera que se pueda determinar si una persona tiene antecedentes, está registrada en alguna lista negra, etc.
 
-=======
-## Consultar ciudadano
 
 ## Consultar publicaciones de un ciudadano/grupo
+Consultar publicaciones realizadas por un ciudadano o un grupo.
 
 ## Consultar establecimiento
+Consultar la información básica de un establecimiento.
 
-## Consultar reportes por establecimiento
+## Reportes
+Permite extraer información basado en las publicaciones y seguimientos registrados. Permite generación de reportes para analizar la información y la situación de seguridad ya sea por ciudadanos, establecimientos, grupos etc.
 
 ## Administrar zonas/localidades/cuadrantes
+Administrar la información de agrupamiento como zonas o cuadrantes de una ciudad para delimitación, asignación y conformación de estos.
 
-## Administrar ciudadanos
+## Administrar ciudadanos (actores civiles)
+
 
 ## Administrar establecimientos
 
@@ -40,12 +45,13 @@ Acceder a la información pública sobre una persona específica de manera que s
 ## Administrar agentes de seguridad
 
 ## Realizar gestión y seguimiento
+Seguimiento y gestión sobre una publicación concreta. Este seguimiento se hace por parte de un agente de seguridad como policía, entidades públicas o privadas.
 
 ## Administrar publicaciones
+Permite administrar las publicaciones realizadas por los ciudadanos o establecimientos
 
 ## Agregar publicación
 
 ## Administrar grupos
 
 ## Administrar agentes privados
->>>>>>> master

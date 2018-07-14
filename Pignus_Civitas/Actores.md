@@ -1,9 +1,9 @@
 Actores
 -----------
 
-1. Ciudadano: persona que reporta
+1. Ciudadano: persona natural que es residente de una comunidad perteneciente a la localidad
 
-2. Agente público:
+2. Agente público:servidor público que se desempeña como autoridad civil
 
 3. Establecimientos
 

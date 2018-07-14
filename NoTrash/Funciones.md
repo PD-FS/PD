@@ -17,4 +17,4 @@
 * Listado de solicitudes de reciclaje
 * Atender solicitud
 
-[link a Maestría en Markdown](https://github.com/ricval/Documentacion/blob/master/Guias/GitHub/mastering-markdown.md\).
+![Atributo Alt](https://github.com/ricval/Documentacion/blob/master/Guias/GitHub/mastering-markdown.md "Markdown")

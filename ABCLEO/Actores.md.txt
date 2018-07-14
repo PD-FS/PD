@@ -19,9 +19,9 @@ curso: String
 *Padres
 Id _Padre: int
 Nombre : String
-edad :int
 Id_ Alumno
 sexo: boolean
+e-mail: String
 
 
 *Institución 

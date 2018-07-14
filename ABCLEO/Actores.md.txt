@@ -1,0 +1,59 @@
+Admininistrador General
+
+* ALUMNO
+ID_Alumno:int
+Nombre: String
+Edad : int
+sexo : boolean
+curso : String
+
+
+*Docente
+id_docente : int
+Nombre :String
+Institución :string
+sexo :boolean
+curso: String
+
+
+*Padres
+Id _Padre: int
+Nombre : String
+edad :int
+Id_ Alumno
+sexo: boolean
+
+
+*Institución 
+Id _ Institución 
+Nombre: String
+Localidad : String
+curso: String
+
+
+* curso
+Id Curso: int
+Nombre: string
+Id_ Docente: int
+Id_ institución: int
+
+
+* Patrocinador 
+id: int
+Nombre: string
+Tipo:string
+fcreacion:date
+estado: boolean
+
+
+* Tipo patrocinio
+Id_ tipo:  int
+Nombre: String
+cantidad: int
+
+
+
+
+
+
+

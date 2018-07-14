@@ -5,16 +5,18 @@ Actores
 
 2. Agente público:servidor público que se desempeña como autoridad civil
 
-3. Establecimientos: sitios físicos a los que pertenecen los ciudadanos
+3. Comunidad: grupos comunitarios de ciudadanos independientes y/o compuesto por otras comunidades
 
-4. Administrador: rol asociado a una persona que tiene privilegios mayores a un usuario final
+4. Administrador: del sistema
 
-5. Líderes: personas naturales que 
+5. Líderes: personas naturales que son voceros oficiales de comunidades
 
-6. Publicación
+6. Publicación: comunicación generada por un actor o entidad
 
-7. Dueños de negocios
+7. Agente privado: persona que se desempeña como autoridad privada
 
-8. Agente privado:
+8. Localidad: sección política de la ciudad
 
-9. 
+9. Cuadrante: división de la localidad definida por la policia de bogotá
+
+10. Zona:

@@ -1,22 +1,25 @@
 # Animal: 
           • cod_Ani
-          • genero
-          • tipo
-          • estatura
+          • Genero
+          • Raza
+          • Estatura
          
 # Centros Veterinairios
-          • cod_CV
-          • Nombre
+          • cod_cv
+          • Telefono
           • Ubicación
+          • Nombre
           
 # Adopcion
-          • cod_Adp
+          • cod_adp
           • cod_Ani
-          • Telefono
           • Ubicación
+          • Telefono
+          • Correo
+          • Descripción
           
-# Extravíos 
+# Extravío 
           • cod_Ext
           • Telefono
-          • Ubicación
-          • Recompensa (opcinal)
+          • Descripción
+          • Recompensa(Opcional)

@@ -1,10 +1,10 @@
-#Usuario: •Agregar denuncia
-          •Agregar perdidas
+# Usuario: 
+          •Agregar denuncia
           •Listar adopciones
-          •Listar perdidas
           •Seguir proceso
 
-#Centros: •Agregar datos de contacto
+# Centros:
+          •Agregar datos de contacto
           •Actualizar datos de contacto
           •Agregar proceso
           •Actualizar proceso

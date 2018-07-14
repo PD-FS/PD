@@ -1,0 +1,32 @@
+Admininistrador General
+
+* Usuario (alumno)
+ID:int
+Nombre: String
+Edad : int
+sexo : boolean
+curso : String
+
+*Docente
+Nombre :String
+cc : int
+Institución 
+sexo :boolean
+curso
+
+*Papitos
+Nombre : String
+edad :int
+hijo
+sexo: boolean
+
+*Institución  
+Nombre: String
+Localidad : String
+curso: String
+
+* Patrocinador 
+
+
+
+

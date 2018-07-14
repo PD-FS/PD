@@ -8,6 +8,7 @@
           • cod_CV
           • Nombre
           • Ubicación
+          • Telefono
           
 # Adopcion
           • cod_Adp
